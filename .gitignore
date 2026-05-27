@@ -1,3 +1,9 @@
 Orbyss_phase1.md
 README_ORBYSS.md
 .env
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+media/
